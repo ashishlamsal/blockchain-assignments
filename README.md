@@ -1,2 +1,3 @@
 # blockchain-assignments
-Blockchain Fellowship III Assignments
+
+[eSatya](https://esatya.io/)’s Blockchain Fellowship 2022 Assignments
